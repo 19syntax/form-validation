@@ -9,11 +9,11 @@
 <p>forms helps enhance data integrity by employing validations techniques to verify data consistency and integrity before processing</p>
 <p>Implementation of form validations provides real-time feedback and quide users to correctly input the right data which improves usability</p>
 
-[img1](https://github.com/syntax019/form-validation/src/assets/err1.png)
+![img1](https://github.com/syntax019/form-validation/blob/master/src/assets/err1.png)
 
 This image responed with an error message when you submit the form empty(blank)
 
-[img2](https://github.com/syntax019/form-validation/src/assets/err2.png)
+![img2](https://github.com/syntax019/form-validation/blob/master/src/assets/err2.png)
 This image aboves shows an example of what happens when you input the wrong information and the validation process🤖
 
 Currently, two official plugins are available:
