@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: ubuntu-r;
+  src: url("assets/fonts/Ubuntu-Regular.ttf");
+}
+
+body {
+  background-color: rgb(213, 218, 226);
+  font-family: "ubuntu-r";
+}
